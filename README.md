@@ -1,14 +1,15 @@
-### Hi there 👋
+# 👋 Hi there!
 
-**akmal520/akmal520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Akmal**, a Software Engineer proficient in popular frameworks such as React JS. Not just coding. I am passionate about creating clean and efficient code, automating testing code, and implementing modern design principles to deliver intuitive user experiences. I am always eager to learn new technologies and improve my skills
 
-Here are some ideas to get you started:
+### Find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Linkedin: Akmal Bentar Sakumbara](https://img.shields.io/badge/Akmal%20Bentar%20Sakumbara-blue?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/akmal-bentar-sakumbara-b59163223/) <a href="mailto:akmalbentarsakumbara@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Akmal%20Bentar%20Sakumbara-blue?logo=gmail&logoColor=white&labelColor=gray"></a> [![Instagram: @akmal.15_](https://img.shields.io/badge/%40akmal.15__-blue?logo=instagram&logoColor=white&labelColor=gray)](https://instagram.com/akmal.15_/) [![](https://komarev.com/ghpvc/?username=akmal520&color=blue&label=Profile%20Views)](https://github.com/akmal520)
+
+
+
+### Statistics
+
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmal520&layout=compact&theme=react&hide=php&langs_count=7" />
+</div>

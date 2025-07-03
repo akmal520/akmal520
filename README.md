@@ -4,8 +4,6 @@ I am **Akmal**, a Software Engineer proficient in popular frameworks such as Rea
 
 ### Find me
 
-[![Linkedin: Akmal Bentar Sakumbara](https://img.shields.io/badge/Akmal%20Bentar%20Sakumbara-blue?logo=linkedin&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/akmal-bentar-sakumbara-b59163223/) <a href="mailto:akmalbentarsakumbara@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Akmal%20Bentar%20Sakumbara-blue?logo=gmail&logoColor=white&labelColor=gray"></a> [![Instagram: @akmal.15_](https://img.shields.io/badge/%40akmal.15__-blue?logo=instagram&logoColor=white&labelColor=gray)](https://instagram.com/akmal.15_/) [![](https://komarev.com/ghpvc/?username=akmal520&color=blue&label=Profile%20Views)](https://github.com/akmal520)
-
 
 
 ### Statistics
